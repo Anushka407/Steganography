@@ -1,5 +1,5 @@
 Steganography: Hiding Text in Image
-AICTE Cyber Security Internship Project
+EDUNET FOUNDATION |IBM SKILLSBULID| Cyber Security Virtual Internship 
 
 Project Overview:-
 This project demonstrates image-based steganography using Python, where secret text messages are hidden inside digital images without changing their visible appearance. The technique uses the Least Significant Bit (LSB) method to conceal the information securely within the image pixels.
