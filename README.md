@@ -19,7 +19,8 @@ Pillow (Image processing)
 
 NumPy (Optional, for image manipulation)
 
-## How the Project Works
+##  How the Project Works
+
 # Encoding Process:
 Load the original image.
 
@@ -35,15 +36,6 @@ Load the encoded image.
 Extract the LSB bits from the image pixels.
 
 Convert binary bits back to readable text to reveal the hidden message.
-
-## Project Structure
-Steganography_Project/
-│
-├── steganography_project.ipynb       # Python code for encoding and decoding
-├── input-image.jpg                   # Original input image
-├── output-image.png                  # Image with hidden message
-├── README.md                         # Project description
-└── Screenshots/                      # Code execution screenshots
 
 ## Results
 Input Image: Original image before embedding the message.
